@@ -1,0 +1,28 @@
+.promo-section{
+    background-color: bisque;
+    padding: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.content-wrapper{
+    max-width: 900px;
+}
+
+.subtitle{
+    color: rgb(12, 12, 12);
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: rgb(216, 78, 15);
+}
+p{
+    color: rgb(0, 0, 0);
+    
+}
+
+
